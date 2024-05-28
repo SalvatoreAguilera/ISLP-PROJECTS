@@ -1,2 +1,0 @@
-Simple Linear Regression calculator API with c++. Will include multithreading to increase performance
- anduse React for front-end.
